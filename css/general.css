@@ -1,0 +1,11 @@
+* {
+  font-size: 10px;
+  font-family: nunito sans, sans-serif;
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+body {
+  padding: 0 !important;
+  padding-bottom: 20rem !important;
+}

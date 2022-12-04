@@ -1,0 +1,18 @@
+.upper_portion {
+  background-color: rgb(6, 17, 42);
+}
+.contact_info--container i {
+  color: white;
+  background-color: transparent;
+  border: 0.1rem solid rgba(143, 142, 142, 0.25);
+  border-radius: 0.8rem;
+  padding: 1.8rem 1.8rem;
+}
+.contact_info--container .header,
+.contact_info--container .sub_header {
+  color: white;
+  margin-bottom: 0 !important;
+}
+.text_container .header span {
+  color: rgb(94, 165, 29);
+}

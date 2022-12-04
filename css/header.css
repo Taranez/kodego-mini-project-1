@@ -1,0 +1,54 @@
+/*? ----- Header -------- */
+@media (max-width: 425px) {
+  .lower_portion {
+    padding: 0;
+  }
+  .container-fluid {
+    background-color: #faf9f6;
+  }
+  .container-fluid .logo h1 {
+    color: rgb(94, 165, 29);
+    font-size: 2.6rem;
+    font-weight: 900;
+    font-family: lato, sans-serif;
+    text-align: center;
+  }
+  .container-fluid span {
+    color: black;
+    font-size: 1.1rem;
+    font-weight: 600 !important;
+    text-transform: uppercase;
+  }
+  .navbar-toggler {
+    color: white !important;
+    background-color: white !important;
+    border: 0.25rem solid black;
+    border-radius: 0.7rem;
+    padding: 0.6rem 1.2rem;
+    margin-top: 0.5rem;
+  }
+  .navbar-collapse {
+    text-align: center;
+  }
+  .nav-link {
+    font-size: 1.6rem;
+    font-weight: 600;
+    padding: 1rem 0;
+  }
+  .nav-link:hover {
+    color: rgb(94, 165, 29);
+  }
+  .btn-outline-success {
+    color: rgb(94, 165, 29);
+    font-size: 1.6rem;
+    text-transform: uppercase;
+    border: 1px solid rgb(94, 165, 29);
+    padding: 1rem 1.5rem;
+    margin: 1.25rem auto 1.25rem auto;
+    transition: all 0.3s ease;
+  }
+  .btn-outline-success:hover {
+    color: white !important;
+    background-color: rgb(94, 165, 29) !important;
+  }
+}
